@@ -6,8 +6,8 @@
 
 ## Game Play Examples
 
-! [ Example of a question and list of possible responses ] ( /assets/images/Sample_Question.png )
+![ Example of a question and list of possible responses ]( /assets/images/Sample_Question.png )
 
-! [ Screen between questions informing user of correct answer ] ( /assets/images/Question_Result.png )
+![ Screen between questions informing user of correct answer ]( /assets/images/Question_Result.png )
 
-! [ End game screen informing user of score ] ( /assets/images/End_Game.png )
+![ End game screen informing user of score ]( /assets/images/End_Game.png )
